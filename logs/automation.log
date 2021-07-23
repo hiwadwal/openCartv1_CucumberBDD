@@ -1,0 +1,256 @@
+01:09:08.763 [main] INFO  stepDefinitions.steps - Browser Url Lunched
+01:09:09.545 [main] INFO  stepDefinitions.steps - user click on MyAccount
+01:09:10.556 [main] INFO  stepDefinitions.steps - Register Account Page Diplayed
+01:09:10.686 [main] INFO  stepDefinitions.steps - User Name Entered
+01:09:10.811 [main] INFO  stepDefinitions.steps - User Last Name is Entered
+01:09:11.077 [main] INFO  stepDefinitions.steps - Telephone No is Entered
+01:09:11.197 [main] INFO  stepDefinitions.steps - Password is Entered
+01:09:13.460 [main] INFO  stepDefinitions.steps - Register Account created successful
+01:09:17.366 [main] INFO  stepDefinitions.steps - Browser Url Lunched
+01:09:18.203 [main] INFO  stepDefinitions.steps - user click on MyAccount
+01:09:18.878 [main] INFO  stepDefinitions.steps - user click on login
+01:09:19.118 [main] INFO  stepDefinitions.steps - user entered login email
+01:09:20.395 [main] INFO  stepDefinitions.steps - user Clicked on login
+02:16:46.670 [main] INFO  stepDefinitions.steps - Browser Url Lunched
+02:16:47.126 [main] INFO  stepDefinitions.steps - user click on MyAccount
+02:16:47.776 [main] INFO  stepDefinitions.steps - user click on login
+02:16:47.965 [main] INFO  stepDefinitions.steps - user entered login email
+02:16:49.125 [main] INFO  stepDefinitions.steps - user Clicked on login
+02:17:27.315 [main] INFO  stepDefinitions.steps - Browser Url Lunched
+02:17:27.693 [main] INFO  stepDefinitions.steps - user click on MyAccount
+02:17:28.416 [main] INFO  stepDefinitions.steps - Register Account Page Diplayed
+02:17:28.488 [main] INFO  stepDefinitions.steps - User Name Entered
+02:17:28.543 [main] INFO  stepDefinitions.steps - User Last Name is Entered
+02:17:28.710 [main] INFO  stepDefinitions.steps - Telephone No is Entered
+02:17:28.753 [main] INFO  stepDefinitions.steps - Password is Entered
+02:17:32.183 [main] INFO  stepDefinitions.steps - Register Account created successful
+02:17:38.856 [main] INFO  stepDefinitions.steps - Browser Url Lunched
+02:17:39.163 [main] INFO  stepDefinitions.steps - user click on MyAccount
+02:17:39.715 [main] INFO  stepDefinitions.steps - user click on login
+02:17:39.848 [main] INFO  stepDefinitions.steps - user entered login email
+02:17:41.004 [main] INFO  stepDefinitions.steps - user Clicked on login
+02:18:27.264 [main] INFO  stepDefinitions.steps - Browser Url Lunched
+02:18:27.882 [main] INFO  stepDefinitions.steps - user click on MyAccount
+02:18:28.859 [main] INFO  stepDefinitions.steps - Register Account Page Diplayed
+02:18:29.013 [main] INFO  stepDefinitions.steps - User Name Entered
+02:18:29.154 [main] INFO  stepDefinitions.steps - User Last Name is Entered
+02:18:29.431 [main] INFO  stepDefinitions.steps - Telephone No is Entered
+02:18:29.612 [main] INFO  stepDefinitions.steps - Password is Entered
+02:18:31.601 [main] INFO  stepDefinitions.steps - Register Account created successful
+02:18:35.288 [main] INFO  stepDefinitions.steps - Browser Url Lunched
+02:18:35.966 [main] INFO  stepDefinitions.steps - user click on MyAccount
+02:18:36.692 [main] INFO  stepDefinitions.steps - user click on login
+02:18:36.880 [main] INFO  stepDefinitions.steps - user entered login email
+02:18:38.135 [main] INFO  stepDefinitions.steps - user Clicked on login
+15:24:06.986 [pool-2-thread-1] INFO  stepDefinitions.steps - Browser Url Lunched
+15:24:07.732 [pool-2-thread-1] INFO  stepDefinitions.steps - user click on MyAccount
+15:24:09.522 [pool-2-thread-1] INFO  stepDefinitions.steps - Register Account Page Diplayed
+15:24:09.770 [pool-2-thread-1] INFO  stepDefinitions.steps - User Name Entered
+15:24:09.945 [pool-2-thread-1] INFO  stepDefinitions.steps - User Last Name is Entered
+15:24:10.443 [pool-2-thread-1] INFO  stepDefinitions.steps - Telephone No is Entered
+15:24:11.424 [pool-2-thread-1] INFO  stepDefinitions.steps - Password is Entered
+15:24:11.985 [pool-2-thread-2] INFO  stepDefinitions.steps - Browser Url Lunched
+15:24:12.433 [pool-2-thread-2] INFO  stepDefinitions.steps - user click on MyAccount
+15:24:13.460 [pool-2-thread-2] INFO  stepDefinitions.steps - user click on login
+15:24:13.874 [pool-2-thread-2] INFO  stepDefinitions.steps - user entered login email
+15:24:14.871 [pool-2-thread-1] INFO  stepDefinitions.steps - Register Account created successful
+15:24:15.296 [pool-2-thread-2] INFO  stepDefinitions.steps - user Clicked on login
+15:25:32.120 [pool-2-thread-1] INFO  stepDefinitions.steps - Browser Url Lunched
+15:25:32.486 [pool-2-thread-2] INFO  stepDefinitions.steps - Browser Url Lunched
+15:25:32.585 [pool-2-thread-1] INFO  stepDefinitions.steps - user click on MyAccount
+15:25:32.842 [pool-2-thread-2] INFO  stepDefinitions.steps - user click on MyAccount
+15:25:33.841 [pool-2-thread-2] INFO  stepDefinitions.steps - user click on login
+15:25:34.093 [pool-2-thread-1] INFO  stepDefinitions.steps - Register Account Page Diplayed
+15:25:34.313 [pool-2-thread-2] INFO  stepDefinitions.steps - user entered login email
+15:25:34.355 [pool-2-thread-1] INFO  stepDefinitions.steps - User Name Entered
+15:25:34.621 [pool-2-thread-1] INFO  stepDefinitions.steps - User Last Name is Entered
+15:25:35.144 [pool-2-thread-1] INFO  stepDefinitions.steps - Telephone No is Entered
+15:25:35.327 [pool-2-thread-1] INFO  stepDefinitions.steps - Password is Entered
+15:25:36.039 [pool-2-thread-2] INFO  stepDefinitions.steps - user Clicked on login
+15:25:37.565 [pool-2-thread-1] INFO  stepDefinitions.steps - Register Account created successful
+15:28:22.160 [pool-2-thread-2] INFO  stepDefinitions.steps - Browser Url Lunched
+15:28:22.720 [pool-2-thread-1] INFO  stepDefinitions.steps - Browser Url Lunched
+15:28:23.214 [pool-2-thread-2] INFO  stepDefinitions.steps - user click on MyAccount
+15:28:23.395 [pool-2-thread-1] INFO  stepDefinitions.steps - user click on MyAccount
+15:28:25.013 [pool-2-thread-2] INFO  stepDefinitions.steps - user click on login
+15:28:25.627 [pool-2-thread-1] INFO  stepDefinitions.steps - Register Account Page Diplayed
+15:28:25.779 [pool-2-thread-2] INFO  stepDefinitions.steps - user entered login email
+15:28:26.075 [pool-2-thread-1] INFO  stepDefinitions.steps - User Name Entered
+15:28:26.613 [pool-2-thread-1] INFO  stepDefinitions.steps - User Last Name is Entered
+15:28:27.392 [pool-2-thread-1] INFO  stepDefinitions.steps - Telephone No is Entered
+15:28:27.634 [pool-2-thread-2] INFO  stepDefinitions.steps - user Clicked on login
+15:28:27.762 [pool-2-thread-1] INFO  stepDefinitions.steps - Password is Entered
+15:28:29.881 [pool-2-thread-1] INFO  stepDefinitions.steps - Register Account created successful
+15:28:30.503 [AsyncHttpClient-1-1] WARN  io.netty.util.HashedWheelTimer - An exception was thrown by TimerTask.
+java.lang.IllegalStateException: cannot be started once stopped
+	at io.netty.util.HashedWheelTimer.start(HashedWheelTimer.java:341) ~[netty-common-4.1.58.Final.jar:4.1.58.Final]
+	at io.netty.util.HashedWheelTimer.newTimeout(HashedWheelTimer.java:416) ~[netty-common-4.1.58.Final.jar:4.1.58.Final]
+	at org.asynchttpclient.netty.channel.DefaultChannelPool.scheduleNewIdleChannelDetector(DefaultChannelPool.java:95) ~[async-http-client-2.12.2.jar:?]
+	at org.asynchttpclient.netty.channel.DefaultChannelPool.access$900(DefaultChannelPool.java:43) ~[async-http-client-2.12.2.jar:?]
+	at org.asynchttpclient.netty.channel.DefaultChannelPool$IdleChannelDetector.run(DefaultChannelPool.java:378) ~[async-http-client-2.12.2.jar:?]
+	at io.netty.util.HashedWheelTimer$HashedWheelTimeout.expire(HashedWheelTimer.java:672) [netty-common-4.1.58.Final.jar:4.1.58.Final]
+	at io.netty.util.HashedWheelTimer$HashedWheelBucket.expireTimeouts(HashedWheelTimer.java:747) [netty-common-4.1.58.Final.jar:4.1.58.Final]
+	at io.netty.util.HashedWheelTimer$Worker.run(HashedWheelTimer.java:472) [netty-common-4.1.58.Final.jar:4.1.58.Final]
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30) [netty-common-4.1.58.Final.jar:4.1.58.Final]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_291]
+01:03:41.098 [main] INFO  stepDefinitions.steps - Browser Url Lunched
+01:03:41.763 [main] INFO  stepDefinitions.steps - user click on MyAccount
+01:03:42.916 [main] INFO  stepDefinitions.steps - user click on login
+01:03:43.288 [main] INFO  stepDefinitions.steps - user entered login email
+01:03:44.772 [main] INFO  stepDefinitions.steps - user Clicked on login
+01:11:24.125 [main] INFO  stepDefinitions.steps - Browser Url Lunched
+01:11:24.512 [main] INFO  stepDefinitions.steps - user click on MyAccount
+01:11:25.254 [main] INFO  stepDefinitions.steps - user click on login
+01:11:25.485 [main] INFO  stepDefinitions.steps - user entered login email
+01:11:26.849 [main] INFO  stepDefinitions.steps - user Clicked on login
+01:12:04.124 [main] INFO  stepDefinitions.steps - Browser Url Lunched
+01:12:05.003 [main] INFO  stepDefinitions.steps - user click on MyAccount
+01:12:06.407 [main] INFO  stepDefinitions.steps - Register Account Page Diplayed
+01:12:06.527 [main] INFO  stepDefinitions.steps - User Name Entered
+01:12:06.673 [main] INFO  stepDefinitions.steps - User Last Name is Entered
+01:12:06.950 [main] INFO  stepDefinitions.steps - Telephone No is Entered
+01:12:07.074 [main] INFO  stepDefinitions.steps - Password is Entered
+01:12:08.952 [main] INFO  stepDefinitions.steps - Register Account created successful
+01:12:12.470 [main] INFO  stepDefinitions.steps - Browser Url Lunched
+01:12:13.204 [main] INFO  stepDefinitions.steps - user click on MyAccount
+01:12:13.999 [main] INFO  stepDefinitions.steps - user click on login
+01:12:14.243 [main] INFO  stepDefinitions.steps - user entered login email
+01:12:15.593 [main] INFO  stepDefinitions.steps - user Clicked on login
+01:14:16.380 [main] INFO  stepDefinitions.steps - Browser Url Lunched
+01:14:17.253 [main] INFO  stepDefinitions.steps - user click on MyAccount
+01:14:17.931 [main] INFO  stepDefinitions.steps - user click on login
+01:14:18.166 [main] INFO  stepDefinitions.steps - user entered login email
+01:14:19.403 [main] INFO  stepDefinitions.steps - user Clicked on login
+01:14:52.460 [main] INFO  stepDefinitions.steps - Browser Url Lunched
+01:14:53.208 [main] INFO  stepDefinitions.steps - user click on MyAccount
+01:14:54.793 [main] INFO  stepDefinitions.steps - Register Account Page Diplayed
+01:14:54.932 [main] INFO  stepDefinitions.steps - User Name Entered
+01:14:55.080 [main] INFO  stepDefinitions.steps - User Last Name is Entered
+01:14:55.378 [main] INFO  stepDefinitions.steps - Telephone No is Entered
+01:14:55.536 [main] INFO  stepDefinitions.steps - Password is Entered
+01:14:57.474 [main] INFO  stepDefinitions.steps - Register Account created successful
+01:15:01.130 [main] INFO  stepDefinitions.steps - Browser Url Lunched
+01:15:01.751 [main] INFO  stepDefinitions.steps - user click on MyAccount
+01:15:02.571 [main] INFO  stepDefinitions.steps - user click on login
+01:15:02.855 [main] INFO  stepDefinitions.steps - user entered login email
+01:15:04.071 [main] INFO  stepDefinitions.steps - user Clicked on login
+01:23:41.832 [main] INFO  stepDefinitions.steps - Browser Url Lunched
+01:23:42.619 [main] INFO  stepDefinitions.steps - user click on MyAccount
+01:23:43.638 [main] INFO  stepDefinitions.steps - Register Account Page Diplayed
+01:23:43.767 [main] INFO  stepDefinitions.steps - User Name Entered
+01:23:43.904 [main] INFO  stepDefinitions.steps - User Last Name is Entered
+01:23:44.200 [main] INFO  stepDefinitions.steps - Telephone No is Entered
+01:23:44.320 [main] INFO  stepDefinitions.steps - Password is Entered
+01:23:46.938 [main] INFO  stepDefinitions.steps - Register Account created successful
+01:23:50.773 [main] INFO  stepDefinitions.steps - Browser Url Lunched
+01:23:51.267 [main] INFO  stepDefinitions.steps - user click on MyAccount
+01:23:52.117 [main] INFO  stepDefinitions.steps - user click on login
+01:23:52.354 [main] INFO  stepDefinitions.steps - user entered login email
+01:23:53.576 [main] INFO  stepDefinitions.steps - user Clicked on login
+01:37:08.061 [main] INFO  stepDefinitions.steps - Browser Url Lunched
+01:37:08.717 [main] INFO  stepDefinitions.steps - user click on MyAccount
+01:37:10.074 [main] INFO  stepDefinitions.steps - Register Account Page Diplayed
+01:37:10.223 [main] INFO  stepDefinitions.steps - User Name Entered
+01:37:10.332 [main] INFO  stepDefinitions.steps - User Last Name is Entered
+01:37:10.626 [main] INFO  stepDefinitions.steps - Telephone No is Entered
+01:37:10.750 [main] INFO  stepDefinitions.steps - Password is Entered
+01:37:12.594 [main] INFO  stepDefinitions.steps - Register Account created successful
+01:37:16.465 [main] INFO  stepDefinitions.steps - Browser Url Lunched
+01:37:17.183 [main] INFO  stepDefinitions.steps - user click on MyAccount
+01:37:18.081 [main] INFO  stepDefinitions.steps - user click on login
+01:37:18.308 [main] INFO  stepDefinitions.steps - user entered login email
+01:37:19.670 [main] INFO  stepDefinitions.steps - user Clicked on login
+01:40:44.206 [main] INFO  stepDefinitions.steps - Browser Url Lunched
+01:40:44.751 [main] INFO  stepDefinitions.steps - user click on MyAccount
+01:40:45.942 [main] INFO  stepDefinitions.steps - Register Account Page Diplayed
+01:40:46.065 [main] INFO  stepDefinitions.steps - User Name Entered
+01:40:46.203 [main] INFO  stepDefinitions.steps - User Last Name is Entered
+01:40:46.499 [main] INFO  stepDefinitions.steps - Telephone No is Entered
+01:40:46.639 [main] INFO  stepDefinitions.steps - Password is Entered
+01:40:58.382 [main] INFO  stepDefinitions.steps - Register Account not created
+01:41:02.161 [main] INFO  stepDefinitions.steps - Browser Url Lunched
+01:41:02.838 [main] INFO  stepDefinitions.steps - user click on MyAccount
+01:41:03.649 [main] INFO  stepDefinitions.steps - user click on login
+01:41:03.877 [main] INFO  stepDefinitions.steps - user entered login email
+01:41:05.102 [main] INFO  stepDefinitions.steps - user Clicked on login
+01:48:52.118 [main] INFO  stepDefinitions.steps - Browser Url Lunched
+01:48:52.782 [main] INFO  stepDefinitions.steps - user click on MyAccount
+01:48:53.846 [main] INFO  stepDefinitions.steps - Register Account Page Diplayed
+01:48:53.985 [main] INFO  stepDefinitions.steps - User Name Entered
+01:48:54.122 [main] INFO  stepDefinitions.steps - User Last Name is Entered
+01:48:54.435 [main] INFO  stepDefinitions.steps - Telephone No is Entered
+01:48:54.563 [main] INFO  stepDefinitions.steps - Password is Entered
+01:49:06.845 [main] INFO  stepDefinitions.steps - Register Account not created
+01:49:11.687 [main] INFO  stepDefinitions.steps - Browser Url Lunched
+01:49:12.578 [main] INFO  stepDefinitions.steps - user click on MyAccount
+01:49:13.345 [main] INFO  stepDefinitions.steps - user click on login
+01:49:13.576 [main] INFO  stepDefinitions.steps - user entered login email
+01:49:14.863 [main] INFO  stepDefinitions.steps - user Clicked on login
+01:49:56.717 [main] INFO  stepDefinitions.steps - Browser Url Lunched
+01:49:57.219 [main] INFO  stepDefinitions.steps - user click on MyAccount
+01:49:58.363 [main] INFO  stepDefinitions.steps - Register Account Page Diplayed
+01:49:58.506 [main] INFO  stepDefinitions.steps - User Name Entered
+01:49:58.645 [main] INFO  stepDefinitions.steps - User Last Name is Entered
+01:49:58.968 [main] INFO  stepDefinitions.steps - Telephone No is Entered
+01:49:59.098 [main] INFO  stepDefinitions.steps - Password is Entered
+01:50:11.249 [main] INFO  stepDefinitions.steps - Register Account not created
+01:53:06.213 [main] INFO  stepDefinitions.steps - Browser Url Lunched
+01:53:06.398 [main] INFO  stepDefinitions.steps - user click on MyAccount
+01:53:07.925 [main] INFO  stepDefinitions.steps - Register Account Page Diplayed
+01:53:08.062 [main] INFO  stepDefinitions.steps - User Name Entered
+01:53:08.196 [main] INFO  stepDefinitions.steps - User Last Name is Entered
+01:53:08.498 [main] INFO  stepDefinitions.steps - Telephone No is Entered
+01:53:08.633 [main] INFO  stepDefinitions.steps - Password is Entered
+01:53:11.803 [main] INFO  stepDefinitions.steps - Register Account created successful
+14:29:39.819 [main] INFO  stepDefinitions.steps - Browser Url Lunched
+14:29:39.985 [main] INFO  stepDefinitions.steps - user click on MyAccount
+14:29:41.341 [main] INFO  stepDefinitions.steps - Register Account Page Diplayed
+14:29:41.497 [main] INFO  stepDefinitions.steps - User Name Entered
+14:29:41.697 [main] INFO  stepDefinitions.steps - User Last Name is Entered
+14:29:41.984 [main] INFO  stepDefinitions.steps - Telephone No is Entered
+14:29:42.098 [main] INFO  stepDefinitions.steps - Password is Entered
+14:29:54.160 [main] INFO  stepDefinitions.steps - Register Account not created
+14:29:58.001 [main] INFO  stepDefinitions.steps - Browser Url Lunched
+14:29:58.692 [main] INFO  stepDefinitions.steps - user click on MyAccount
+14:29:59.520 [main] INFO  stepDefinitions.steps - user click on login
+14:29:59.825 [main] INFO  stepDefinitions.steps - user entered login email
+14:30:01.250 [main] INFO  stepDefinitions.steps - user Clicked on login
+14:39:15.742 [main] INFO  stepDefinitions.steps - Browser Url Lunched
+14:39:16.209 [main] INFO  stepDefinitions.steps - user click on MyAccount
+14:39:17.337 [main] INFO  stepDefinitions.steps - Register Account Page Diplayed
+14:39:17.485 [main] INFO  stepDefinitions.steps - User Name Entered
+14:39:17.604 [main] INFO  stepDefinitions.steps - User Last Name is Entered
+14:39:17.882 [main] INFO  stepDefinitions.steps - Telephone No is Entered
+14:39:17.988 [main] INFO  stepDefinitions.steps - Password is Entered
+14:39:30.144 [main] INFO  stepDefinitions.steps - Register Account not created
+14:39:33.822 [main] INFO  stepDefinitions.steps - Browser Url Lunched
+14:39:34.749 [main] INFO  stepDefinitions.steps - user click on MyAccount
+14:39:35.575 [main] INFO  stepDefinitions.steps - user click on login
+14:39:35.844 [main] INFO  stepDefinitions.steps - user entered login email
+14:39:37.136 [main] INFO  stepDefinitions.steps - user Clicked on login
+14:57:34.664 [main] INFO  stepDefinitions.steps - Browser Url Lunched
+14:57:35.428 [main] INFO  stepDefinitions.steps - user click on MyAccount
+14:57:36.324 [main] INFO  stepDefinitions.steps - Register Account Page Diplayed
+14:57:36.441 [main] INFO  stepDefinitions.steps - User Name Entered
+14:57:36.555 [main] INFO  stepDefinitions.steps - User Last Name is Entered
+14:57:36.813 [main] INFO  stepDefinitions.steps - Telephone No is Entered
+14:57:36.930 [main] INFO  stepDefinitions.steps - Password is Entered
+14:57:48.923 [main] INFO  stepDefinitions.steps - Register Account not created
+14:57:52.723 [main] INFO  stepDefinitions.steps - Browser Url Lunched
+14:57:53.407 [main] INFO  stepDefinitions.steps - user click on MyAccount
+14:57:54.114 [main] INFO  stepDefinitions.steps - user click on login
+14:57:54.320 [main] INFO  stepDefinitions.steps - user entered login email
+14:57:55.687 [main] INFO  stepDefinitions.steps - user Clicked on login
+15:21:57.126 [pool-2-thread-2] INFO  stepDefinitions.steps - Browser Url Lunched
+15:21:57.793 [pool-2-thread-2] INFO  stepDefinitions.steps - user click on MyAccount
+15:21:58.493 [pool-2-thread-2] INFO  stepDefinitions.steps - user click on login
+15:21:58.726 [pool-2-thread-2] INFO  stepDefinitions.steps - user entered login email
+15:22:00.546 [pool-2-thread-2] INFO  stepDefinitions.steps - user Clicked on login
+15:22:00.804 [pool-2-thread-1] INFO  stepDefinitions.steps - Browser Url Lunched
+15:22:01.498 [pool-2-thread-1] INFO  stepDefinitions.steps - user click on MyAccount
+15:22:02.701 [pool-2-thread-1] INFO  stepDefinitions.steps - Register Account Page Diplayed
+15:22:02.962 [pool-2-thread-1] INFO  stepDefinitions.steps - User Name Entered
+15:22:03.149 [pool-2-thread-1] INFO  stepDefinitions.steps - User Last Name is Entered
+15:22:03.736 [pool-2-thread-1] INFO  stepDefinitions.steps - Telephone No is Entered
+15:22:03.939 [pool-2-thread-1] INFO  stepDefinitions.steps - Password is Entered
+15:22:06.282 [pool-2-thread-1] INFO  stepDefinitions.steps - Register Account created successful
